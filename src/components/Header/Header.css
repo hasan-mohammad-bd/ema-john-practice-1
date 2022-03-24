@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+
+.header li {
+    list-style-type: none;
+
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header a:hover {
+    color: orange;
+}
+
+.header ul {
+    display: flex;
+}
+
+.header ul li {
+    margin-left: 20px;
+}
