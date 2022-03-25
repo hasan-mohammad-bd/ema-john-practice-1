@@ -32,8 +32,13 @@ button p {
     margin-right: 5px;
 }
 
+.other-info{
+    padding: 10px;
+}
+
 .other-info > p {
     margin: 0;
+    
 }
 
 .padding {
